@@ -6,5 +6,6 @@
 
  In project I've used Signleton and Object Pooling design patterns.
 
- Concept is borrowed but modified and expanded (from https://www.habrador.com/tutorials/unity-realistic-bullets/)
+ Concept is borrowed but modified and expanded (from https://www.habrador.com/tutorials/unity-realistic-bullets/).
+ 
  Big thanks to this guy and his professional tutorials on physics in Unity.
